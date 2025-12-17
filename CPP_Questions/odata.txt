@@ -1,0 +1,360 @@
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            38             71.6667        passed         
+Sara        102            25             45             fail           
+Hamza       103            30             85             fail           
+Noor        104            35             75             passed         
+Ahmad       105            31             55             passed         
+Iqra        106            30             35             fail           
+Qasim       107            34             83.3333        passed         
+Safi        108            40             66.6667        passed         
+Haad        109            20             75             fail           
+Haad        110            39             81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         
+Name        Roll.No        Attendance(%)  Avg Quiz      Status      
+***************************************************************
+Ali         101            95             71.6667        passed         
+Sara        102            62.5           45             fail           
+Hamza       103            75             85             fail           
+Noor        104            87.5           75             passed         
+Ahmad       105            77.5           55             passed         
+Iqra        106            75             35             fail           
+Qasim       107            85             83.3333        passed         
+Safi        108            100            66.6667        passed         
+Haad        109            50             75             fail           
+Haad        110            97.5           81.6667        passed         

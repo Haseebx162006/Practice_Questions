@@ -1,0 +1,1 @@
+  tick[choice1]=true;
