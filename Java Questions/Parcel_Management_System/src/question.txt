@@ -1,0 +1,178 @@
+Excellent 👏 — now that’s an important clarification!
+
+You want the “location” in your Parcel Management System to represent a 2D array position — for example, something like a warehouse grid or map where each parcel is stored at coordinates (row, column).
+
+Let’s revise your OOP Lab Paper in Java accordingly 👇
+
+
+---
+
+💻 OOP Lab Exam Paper (Java)
+
+Question: Parcel Management System with 2D Location Tracking
+
+Total Marks: 20  Time: 2 hours  Language: Java
+
+
+---
+
+Problem Statement:
+
+You are required to design a Parcel Management System using Object-Oriented Programming concepts in Java.
+Each parcel is stored in a 2D warehouse grid (rows and columns).
+The system should manage parcel information, location in the grid, delivery status, and price.
+
+
+---
+
+Requirements:
+
+1. Class Design
+
+Class: Parcel
+
+Data Members:
+
+int parcelID
+
+String senderName
+
+String receiverName
+
+int row — parcel’s row position in the 2D array
+
+int col — parcel’s column position in the 2D array
+
+double weight
+
+double price
+
+boolean isDelivered
+
+
+Member Functions:
+
+void inputData() – take parcel details and location (row, col) from user.
+
+void calculatePrice() – price = weight × 250.
+
+void displayData() – display all parcel details (including grid position).
+
+void markDelivered() – change status to delivered.
+
+
+
+
+---
+
+Class: ParcelSystem
+
+Data Members:
+
+Parcel[][] parcels = new Parcel[5][5]; // 5×5 warehouse grid
+
+int totalParcels = 0;
+
+
+Member Functions:
+
+void addParcel() – add a new parcel to a specific grid cell (row, col).
+
+If that cell already contains a parcel, show “Slot occupied.”
+
+
+void searchParcelByID(int id) – find parcel by ID anywhere in grid.
+
+void searchParcelByLocation(int row, int col) – show parcel details at given grid coordinates.
+
+void markDeliveredByID(int id) – mark parcel as delivered using its ID.
+
+void displayAllParcels() – display all non-null parcels with their positions.
+
+
+
+
+---
+
+Class: Main
+
+Implement a menu-driven program with the following options:
+
+1. Add a new parcel
+
+
+2. Search parcel by ID
+
+
+3. Search parcel by grid location
+
+
+4. Mark parcel as delivered
+
+
+5. Display all parcels
+
+
+6. Exit
+
+
+
+
+
+---
+
+OOP Concepts to Apply
+
+Encapsulation: Keep class variables private.
+
+Composition: Store Parcel objects in a 2D array inside ParcelSystem.
+
+Abstraction: User interacts only through clear menu options.
+
+Polymorphism (Optional): Could be used later if different parcel types are introduced (e.g., ExpressParcel).
+
+
+
+---
+
+Expected Output (Example)
+
+===== Parcel Management System =====
+1. Add Parcel
+2. Search by ID
+3. Search by Location
+4. Mark Delivered
+5. Display All
+6. Exit
+
+Enter choice: 1
+Enter Parcel ID: 101
+Sender Name: Ali
+Receiver Name: Ahmed
+Row: 1
+Column: 2
+Weight: 3.5
+Parcel added at (1, 2)
+Price: 875.0 PKR
+
+Enter choice: 5
+ID: 101 | Sender: Ali | Receiver: Ahmed | Location: (1,2) | Delivered: false | Price: 875.0
+
+
+---
+
+Marking Criteria
+
+Section	Marks
+
+Class Structure & Encapsulation	5
+2D Array Implementation	5
+Functionality (Add, Search, Mark, Display)	6
+Code Quality & Readability	2
+Output Accuracy	2
+
+
+
+---
+
+Would you like me to now write the Java solution code for this updated version (with the 2D array location system)?
