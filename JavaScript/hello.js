@@ -32,3 +32,22 @@ for(const num of arr){
     }
 }
 console.log(largest)
+
+
+function run(){
+    console.log("Going to runnnnnnnnn")
+    return function fn(){
+        console.log("Hello")
+    }
+}
+
+function sayhi(){
+    return console.log("Am fine")
+}
+run()()
+
+function outer(){
+    return function(){
+        console.log("Hello")
+    }
+}
