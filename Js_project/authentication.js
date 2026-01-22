@@ -30,9 +30,11 @@ app.post('/signup',async (req,res) => {
     const hash_password= await bcrypt.hash(password,10);
 
     users.push(
-        name,
-        email,
-        hash_password
+        {
+            name,
+            email,
+            password:hash_password
+        }
     )
 
 
@@ -65,3 +67,5 @@ app.post('/login',async(req,res)=>{
 res.status(200).json({message:"Login hogya bhaiyaa", token})
 }
 )
+
+app.listen(PORT)
