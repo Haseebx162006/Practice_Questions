@@ -5,11 +5,14 @@ const bcrypt=require('bcrypt')
 const PORT=5000
 
 
+const app= express()
+const path = require('path'); 
+
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json())
 app.use(cors())
 
 const JWT_sec='jwtsec123'
-const app= express()
 const users=[]
 
 app.get('/',function(req,res){
@@ -50,7 +53,7 @@ app.post('/login',async(req,res)=>{
     const user= users.find((user)=>user.email===email)
 
     if(!user){
-        return res.status(400).json({error:"Bhai Pehle ja ke Signup kar or account bna yaha kya karbe aya ha"})
+        return res.status(400).json({error:"Bhai Pehle ja ke Signup kar or account bna yaha kya kar  aya ha"})
     }
     const compare_psd=await bcrypt.compare(password,user.password)
 
@@ -62,7 +65,7 @@ app.post('/login',async(req,res)=>{
         email:user.email
     },
     JWT_sec,
-    {expires_in:"1h"}
+    {expiresIn:"1h"}
 )
 res.status(200).json({message:"Login hogya bhaiyaa", token})
 }
