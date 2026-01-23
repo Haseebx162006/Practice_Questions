@@ -7,8 +7,9 @@ app.use(express.urlencoded({extended:true}))
 
 const userModel=  require('./usermodel')
 
-app.post("/create", async(req,res)=>{
-    userModel.create(
+
+app.get("/create", async(req,res)=>{
+    let created_user=await userModel.create(
         {
             name:"Haseeb",
             username:"haseebx16",
@@ -16,4 +17,7 @@ app.post("/create", async(req,res)=>{
             password:"Hello_Haseeb"
         }
     )
+    res.send(created_user)
 })
+
+app.listen(3000)
